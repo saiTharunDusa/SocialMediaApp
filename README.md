@@ -1,4 +1,3 @@
-##Main Screen
-<video width="600" controls>
-  <source src="/assets/Videos/main_screen.mp4" type="video/mp4">
-</video>
+## Main Screen
+
+<img src="/assets/Images/main_screen.png" alt="Main Screen">
